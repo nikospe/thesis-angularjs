@@ -1,3 +1,4 @@
 [
-    "./src/sass/**/*.scss"
+    "./node_modules/bootstrap/dist/css/bootstrap.css",
+    "./src/sass/**/*.scss" 
 ]

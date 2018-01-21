@@ -1,0 +1,19 @@
+div.navbar-brand {
+    display: inline;
+    cursor: pointer;
+    img {
+        width: 40px;
+    }
+    h5 {
+        display: inline;
+    }
+}
+
+ul.navbar-nav {
+    div {
+        cursor: pointer;
+        img {
+            width: 25px;  
+        }
+    }
+}
